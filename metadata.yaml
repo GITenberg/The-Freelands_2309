@@ -1,5 +1,8 @@
 _repo: The-Freelands_2309
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -14,6 +17,8 @@ description: 'A family tale reminiscent of his famous Forsyte Saga, the Freeland
   Stanley, and the eccentric, revolutionary Tod. The family''s fate in this sweeping
   social novel is intertwined with those of the workers on the land, including Bob
   Tryst, evicted at a squiress''s whim.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2309#The-Freelands
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
